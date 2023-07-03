@@ -15,4 +15,5 @@ pip install tensorboard
 
 if you like to use fastai, install it by yourself.
 
-At last, clean the pip cache.
+At last, clean the pip cache: pip cache purge
+
